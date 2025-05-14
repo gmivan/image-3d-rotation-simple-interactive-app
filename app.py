@@ -1,4 +1,4 @@
- import gradio as gr
+import gradio as gr
 import numpy as np
 from scipy.spatial.transform import Rotation
 from scipy.interpolate import RegularGridInterpolator
